@@ -1,0 +1,6 @@
+*Speech to text Liberary in python*
+https://www.upgrad.com/blog/speech-to-text-with-python/
+*********************************************************************
+*Papers + Code + DS*
+https://paperswithcode.com/task/speech-to-text-translation
+*********************************************************************
