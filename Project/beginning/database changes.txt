@@ -1,0 +1,8 @@
+CREATE TABLE SongsClassification (
+    SongName VARCHAR(50) NOT NULL,
+    ArtistName VARCHAR(50) NOT NULL,
+    Lyrics TEXT,
+    ExplictLabel VARCHAR(50),
+    MusicPath VARCHAR(500),
+    CONSTRAINT PK_SongsClassification PRIMARY KEY (SongName, ArtistName)
+);
